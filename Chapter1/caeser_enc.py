@@ -10,3 +10,15 @@ def encrypt(text, shift):
         # 文字コードに変換
         code = ord(ch)
         # AからZの間か？
+        if code_a <= code <= code_z:
+            # shift分だけ並びをずらす
+            code = (code - code_a + shift) % 26 + code_a
+        # 文字コードから文字に変換
+        result += chr(code)
+
+    return result
+
+# 関数を呼び出す
+enc = encrypt("I LOVE YOU.", 3)
+dec = encrypt(enc, -3)
+print(enc, "=>", dec)
