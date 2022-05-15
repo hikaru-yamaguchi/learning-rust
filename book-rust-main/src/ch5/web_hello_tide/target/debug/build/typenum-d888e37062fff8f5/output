@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\Users\hy_21\Work\Rusts\book-rust-main\src\ch5\web_hello_tide\target\debug\build\typenum-d888e37062fff8f5\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=c:\Users\hy_21\Work\Rusts\book-rust-main\src\ch5\web_hello_tide\target\debug\build\typenum-d888e37062fff8f5\out\op.rs

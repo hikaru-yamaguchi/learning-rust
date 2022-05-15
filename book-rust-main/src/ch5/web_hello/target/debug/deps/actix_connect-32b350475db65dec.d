@@ -1,0 +1,12 @@
+c:\Users\hy_21\Work\Rusts\book-rust-main\src\ch5\web_hello\target\debug\deps\actix_connect-32b350475db65dec.rmeta: C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src/lib.rs C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\connect.rs C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\connector.rs C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\error.rs C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\resolve.rs C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\service.rs C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\ssl\mod.rs C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\uri.rs
+
+c:\Users\hy_21\Work\Rusts\book-rust-main\src\ch5\web_hello\target\debug\deps\actix_connect-32b350475db65dec.d: C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src/lib.rs C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\connect.rs C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\connector.rs C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\error.rs C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\resolve.rs C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\service.rs C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\ssl\mod.rs C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\uri.rs
+
+C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src/lib.rs:
+C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\connect.rs:
+C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\connector.rs:
+C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\error.rs:
+C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\resolve.rs:
+C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\service.rs:
+C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\ssl\mod.rs:
+C:\Users\hy_21\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-connect-2.0.0\src\uri.rs:
