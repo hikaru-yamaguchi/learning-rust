@@ -1,0 +1,1 @@
+C:\Users\hy_21\Work\Rusts\Chapter4\rand\target\debug\rand.exe: C:\Users\hy_21\Work\Rusts\Chapter4\rand\src\main.rs C:\Users\hy_21\Work\Rusts\Chapter4\rand\src\random\linear.rs C:\Users\hy_21\Work\Rusts\Chapter4\rand\src\random\xorshift.rs C:\Users\hy_21\Work\Rusts\Chapter4\rand\src\random.rs
