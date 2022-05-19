@@ -1,6 +1,9 @@
 [package]
-name = "rpn_calc"
+name = "umaruyama_rpn_calc"
 version = "0.1.0"
+authors = ["umaruyama"]
+description = "RPN(Reserve Polish Notatio) library"
+license = "MIT"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

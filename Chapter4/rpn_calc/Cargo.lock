@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rpn_calc"
+name = "umaruyama_rpn_calc"
 version = "0.1.0"
